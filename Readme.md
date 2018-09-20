@@ -40,5 +40,8 @@ Modern browsers and Internet Explorer 11+.
 ## Links
 - [Website](https://github.com/screenagers)
 
+## Contributors
+Based on Table Template by [Colorlib](https://colorlib.com/wp/template/responsive-table-v2/)
+
 ## LICENSE
 [MIT](LICENSE)
