@@ -6,16 +6,17 @@ Option to copy download links with one click.
 
 ## Setup
 - Copy everything into a web-accessible directory on your webserver.
-- Open index.php and adapt $config options
+- Open (index.php) and adapt $config options
 
-```$config = array(
+```
+$config = array(
   'index_path' => './uploads/',
   'base_url' => 'https://your-download-site.example/uploads/',
   'display_limit' => 20,
 );
 ```
 
-Put all your files your `index_path` directory. Make sure they are accessible by pointing your browser to `base_url` and the filename.
+Put all your files in your `index_path` directory. Make sure they are accessible by pointing your browser to `base_url` and the filename.
 
 ### Security
 
@@ -38,7 +39,7 @@ Modern browsers and Internet Explorer 11+.
 - [brandquiz](https://www.brandquiz.io)
 
 ## Links
-- [Website](https://github.com/screenagers)
+- [Project Website](https://github.com/screenagers/prettydownloadlinks)
 
 ## Contributors
 Based on Table Template by [Colorlib](https://colorlib.com/wp/template/responsive-table-v2/)
