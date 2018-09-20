@@ -6,7 +6,7 @@ Option to copy download links with one click.
 
 ## Setup
 - Copy everything into a web-accessible directory on your webserver.
-- Open (index.php) and adapt $config options
+- Open [index.php] and adapt $config options
 
 ```
 $config = array(
